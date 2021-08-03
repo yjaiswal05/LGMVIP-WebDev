@@ -1,0 +1,263 @@
+                                /* NAVIGATION BAR */
+
+#nav-bar ul{
+    display: none;
+    text-align: center;
+}
+.hamburger{  
+    right: -1px;
+    display: block;
+}
+#nav-ul.show{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 1rem;
+}
+#logo{
+    margin-left: -15px;
+    font-weight: 500;
+}
+.slider-box{
+    min-height: 100vh;
+}
+#slider img{
+    min-height: 100vh;
+}
+
+                                /* MAIN CONTAINER */
+
+#main-container{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1vh;
+}
+#heading{
+    width: 60vw;
+    font-size: 2rem;
+    font-weight: 300;
+    padding-top: 10rem;
+    margin: 2rem 9rem;
+}
+#sub-heading{
+    width: 60vw;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+
+                                /*SECOND PAGE CONTENT*/
+
+#page2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.page_heading{
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+#first-sec p{
+    font-size: 1rem;
+    width: 20%;
+    margin: 1rem 2rem;
+    margin-left: 400px;
+}
+#first-sec img{
+    width: 70px;
+}
+.snd_frth_svnth_sec{
+    display: flex;
+    flex-direction: column;
+}
+.second_sec_content{
+    margin: 30px;
+}
+.second_sec_content a{
+    margin: 50px auto;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+                              /* THIRD PAGE  */
+
+#page3{
+    position: relative;
+    top: -250px;
+}
+.projects-container{
+    flex-direction: column;
+}
+.third-pg-imgs{
+    width: 100%;
+    height: 100%;
+}
+#thrd-pg-heading{
+    font-size: 1.7rem;
+    font-weight: 800;
+    margin: 30px;
+    margin-top: -110px;
+}
+.box{
+    margin-top: 0px;
+    width: 100%;
+    height: 60%;
+}
+
+                                /* FOURTH PAGE */
+
+#page4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    margin-top: -200px;
+}
+.frth_sec{
+    border: 2px solid red;
+    margin-left: -15rem;
+    margin: 30px;
+    align-items: center;
+}
+
+                                /* FIFTH PAGE */
+
+#page5{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: -300px;
+}   
+.team-leader{
+    display: flex;
+    flex-direction: column;
+} 
+
+                                /* SIXTH PAGE */
+
+#page6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.video-container{
+    background-color:#61497b;
+    width: 100vw;
+    height: 35vh;
+    margin-top: 50px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 50%;
+    padding: 30px;
+    min-width: 50px;
+}
+.feature-img{
+    width: 140%;
+    height: 100px;
+    margin-top: 30px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.small-img img{
+    width: 100px;
+    padding: 5px;
+}
+.play-btn{
+    width: 30px;
+    position: absolute;
+    left: 38%;
+}
+.small-img .play-btn{
+    width: 25px;
+}
+.video-player{
+    width: 25%;
+    display: none;
+}
+
+                                /* SEVENTH PAGE */
+
+#page7{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+                               /* EIGTH PAGE */
+
+#page8{
+    position: relative;
+    margin-top: -350px;
+}
+.gallery{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.gal-img{
+    width: 20%;
+    padding: 15px;
+}
+.gal-img:hover{
+    transform: scale(1.1);
+}
+
+                                /* NINETH PAGE */
+
+#page9{
+    margin-top: 50px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.map{
+    margin-top: 20px;
+}
+.contact-box form{
+    width: 10%;
+    padding: 5px;
+}
+.footer-img{
+    width: 25px;
+    height: 25px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.footer-content{
+    font-size: 10px;
+}
+.footer-bottom{
+    font-size: 10px;
+}                            
+li{
+    padding: 10px;
+}
