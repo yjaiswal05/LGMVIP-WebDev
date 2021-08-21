@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0e80b2a.chunk.css",
+    "main.js": "/static/js/main.b8732383.chunk.js",
+    "main.js.map": "/static/js/main.b8732383.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03a9e416.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03a9e416.js.map",
+    "static/js/2.88516d7f.chunk.js": "/static/js/2.88516d7f.chunk.js",
+    "static/js/2.88516d7f.chunk.js.map": "/static/js/2.88516d7f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f0e80b2a.chunk.css.map": "/static/css/main.f0e80b2a.chunk.css.map",
+    "static/js/2.88516d7f.chunk.js.LICENSE.txt": "/static/js/2.88516d7f.chunk.js.LICENSE.txt",
+    "static/media/defaults.css": "/static/media/black-table-bg.6fc77c22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03a9e416.js",
+    "static/js/2.88516d7f.chunk.js",
+    "static/css/main.f0e80b2a.chunk.css",
+    "static/js/main.b8732383.chunk.js"
+  ]
+}
